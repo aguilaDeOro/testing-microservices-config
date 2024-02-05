@@ -1,2 +1,2 @@
 dataGovernance: 
-  connectionString: Server=DESKTOP-R7Q9SSL\SQLEXPRESSxx;Initial Catalog=venta-bd;User Id=sa;Password=!sql2019;TrustServerCertificate=True;
+  connectionString: Server=DESKTOP-R7Q9SSL\SQLEXPRESS;Initial Catalog=venta-bd;User Id=sa;Password=!sql2019;TrustServerCertificate=True;
